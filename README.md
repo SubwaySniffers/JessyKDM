@@ -40,6 +40,8 @@ So yeah, um, thats why my name is like that. If I was a d#ckhead, this would eve
 
 My friends and family say I'm quite smart, but I don't like calling myself too good / bad at anything, as I don't want to be labelled as a narcissist.
 
+Even worse than my mispelled name, is  the fact that I'm british :shock: 
+
 ### Coding capabilities
 
 I'd say I'm quite mediocre at coding, even though it is my passion and a web developer is my dream job. On a scale of 1 - 10 (relative for me, i.e. if I say im 7/10 in python but you think you are 3/10 in javascript or something, odds are you are still far better at js than I am at python), this is how good I think I am at some programming languages:
@@ -52,5 +54,24 @@ I'd say I'm quite mediocre at coding, even though it is my passion and a web dev
 6. JS & CSS & Lua - 2/10 **(tie)**
 7. C++ - 1.5/10
 8. Java - 1/10
-9. A lot of thing I haven't heard of - tiny_number/10 `where tiny_number = (0.1 + 0.2) - 0.3`
+9. A lot of thing I haven't heard of - tiny_number/10 where `tiny_number = (0.1 + 0.2) - 0.3`
 
+## Achievements
+
+### Introduction
+
+Yo gang, guess whos back again! Have you ever wondered what this elusive "Jessy KDM" guy has done in his life? Well you'll **never** guess - F#CKALL! I guess I'm just that useless! What can I say though...
+
+... But in all seriousness, Allow me to show you what I've done for the greater good of society:
+
+## My Achievements
+
+- This one time, I made a python file "Shutdown.py" with the following code:
+
+```
+import subprocess
+subprocess.run([r"C:\Windows\System32\shutdown.exe", "/s", "/f", "/t", "0"])
+```
+... Then i packaged it into a .exe file with PyInstaller, renamed it to "Working Blooket Hacks.exe", sent it to my friend and got him to run it. We were playing blooket as a class and he was winning but then his computer just closed and we were all laughing at him.
+
+- My school blocked command prompt so I made my own, frankly shitter
