@@ -32,7 +32,8 @@ Good morning, gang! My name is Jessy, and it would've been Jesse but thats not t
 ```
 def choose_name(child):
     global me, my_parents
-    name = random.choice(["Mike", "Charlie", "Bob", "Tom", "Liam", "Oliver", "James", "Pikachu", "George", "Jacob", "etc"]) # yk like common boys names n shit
+    name = random.choice(["Mike", "Charlie", "Bob", "Tom", "Liam", "Oliver", "James", "Pikachu", "George", "Jacob", "etc"])
+    # yk like common boys names n shit
     if child == me:
         name = "Jesse"
     if my_parents.think_im_gonna_be_special_for_some_reason:
