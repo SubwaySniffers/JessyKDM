@@ -52,5 +52,5 @@ I'd say I'm quite mediocre at coding, even though it is my passion and a web dev
 6. JS & CSS & Lua - 2/10 **(tie)**
 7. C++ - 1.5/10
 8. Java - 1/10
-9. A lot of thing I haven't heard of - 0.1/10
+9. A lot of thing I haven't heard of - tiny_number/10 `where tiny_number = (0.1 + 0.2) - 0.3`
 
