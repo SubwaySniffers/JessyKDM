@@ -40,7 +40,7 @@ So yeah, um, thats why my name is like that. If I was a d#ckhead, this would eve
 
 My friends and family say I'm quite smart, but I don't like calling myself too good / bad at anything, as I don't want to be labelled as a narcissist.
 
-Even worse than my mispelled name, is  the fact that I'm british :shock: 
+Even worse than my mispelled name, is  the fact that I'm british 😮
 
 ### Coding capabilities
 
