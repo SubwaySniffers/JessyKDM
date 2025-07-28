@@ -5,7 +5,7 @@
 ## Table of contents & Important info
 
 ### Table of contents
-- [Table of contents & Important info](#table-of-contents-&-important-info)
+- [Table of contents & Important info](#table-of-contents--important-info)
   - [Table of contents](#table-of-contents)
   - [Important info](#important-info)
 - [Who tf is this Jessy KDM guy?](#who-tf-is-this-jessy-kdm-guy)
