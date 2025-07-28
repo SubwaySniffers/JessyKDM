@@ -6,12 +6,15 @@
 
 ### Table of contents
 - [--- Jessy KDM's github repo all about himself ---](#----jessy-kdms-github-repo-all-about-himself----)
-  - [Table of contents & Important info](#table-of-contents--important-info)
-    - [Table of contents](#table-of-contents)
-    - [Important info](#important-info)
-  - [Who tf is this Jessy KDM guy?](#who-tf-is-this-jessy-kdm-guy)
-     - [Personal Shyt](#personal-shyt)
-     - [Coding Capabilities](#coding-capabilities)
+    - [Table of contents & Important info](#table-of-contents--important-info)
+        - [Table of contents](#table-of-contents)
+        - [Important info](#important-info)
+    - [Who tf is this Jessy KDM guy?](#who-tf-is-this-jessy-kdm-guy)
+        - [Personal Shyt](#personal-shyt)
+        - [Coding Capabilities](#coding-capabilities)
+    - [My Achievements](#my-achievements)
+        - [Introduction](#introduction)
+        - [Achievements](#achievements)
 
 
 
@@ -42,6 +45,8 @@ My friends and family say I'm quite smart, but I don't like calling myself too g
 
 Even worse than my mispelled name, is  the fact that I'm british 😮
 
+Now as for conditions, I have ADHD, and am autistic (the one that makes you smart, not the one that makes you bite your tongue when you piss or sum).
+
 ### Coding capabilities
 
 I'd say I'm quite mediocre at coding, even though it is my passion and a web developer is my dream job. On a scale of 1 - 10 (relative for me, i.e. if I say im 7/10 in python but you think you are 3/10 in javascript or something, odds are you are still far better at js than I am at python), this is how good I think I am at some programming languages:
@@ -56,7 +61,7 @@ I'd say I'm quite mediocre at coding, even though it is my passion and a web dev
 8. Java - 1/10
 9. A lot of thing I haven't heard of - tiny_number/10 where `tiny_number = (0.1 + 0.2) - 0.3`
 
-## Achievements
+## My Achievements
 
 ### Introduction
 
@@ -64,7 +69,7 @@ Yo gang, guess whos back again! Have you ever wondered what this elusive "Jessy 
 
 ... But in all seriousness, Allow me to show you what I've done for the greater good of society:
 
-## My Achievements
+## Achievements
 
 - This one time, I made a python file "Shutdown.py" with the following code:
 
@@ -74,4 +79,4 @@ subprocess.run([r"C:\Windows\System32\shutdown.exe", "/s", "/f", "/t", "0"])
 ```
 ... Then i packaged it into a .exe file with PyInstaller, renamed it to "Working Blooket Hacks.exe", sent it to my friend and got him to run it. We were playing blooket as a class and he was winning but then his computer just closed and we were all laughing at him.
 
-- My school blocked command prompt so I made my own, frankly shitter
+- My school blocked command prompt so I made my own, frankly shitter version with cd, dir, and running apps with arguments (the main reason i made it), again with python and pyinstaller.
