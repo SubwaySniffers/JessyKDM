@@ -45,7 +45,7 @@ I'd say I'm quite mediocre at coding, even though it is my passion and a web dev
 3. C# - 4/10
 4. HTML - 3/10
 5. C - 2.5/10
-6. JS - 2/10 (tied with CSS & Lua)
+6. JS - 2/10 (tied with CSS & Lua)<br>6. CSS - 2/10 (tied with Lua and JS)<br>6. Lua - 2/10 (tied with JS & CSS)
 6. CSS - 2/10 (tied with Lua and JS)
 6. Lua - 2/10 (tied with JS & CSS)
 7. C++ - 1.5/10
