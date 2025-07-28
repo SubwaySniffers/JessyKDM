@@ -38,4 +38,16 @@ My friends and family say I'm quite smart, but I don't like calling myself too g
 
 #### Coding capabilities
 
-I'd say I'm quite mediocre at coding, even though it is my passion and a web developer is my dream job. On a scale of 1 - 10 (relative for me, i.e. if I say im 7/10 in python but you think you are 3/10 in javascript or something, odds are you are still far better at js than I am at python), this is how good I think I am at some programming languages.<br>  1. Python - 7/10<br>  2. GDscript (basically python but ok) - 6/10<br>  3. C# - 4/10<br>  4. HTML - 3/10<br>  5. C - 2.5/10<br>  6. JS - 2/10 (tied with CSS & Lua)<br>  6. CSS - 2/10 (tied with Lua and JS)<br>  6. Lua - 2/10 (tied with JS & CSS)<br>  7. C++ - 1.5/10<br>  8. Java - 1/10<br>  9. A lot of things I've never heard of - 0/10
+I'd say I'm quite mediocre at coding, even though it is my passion and a web developer is my dream job. On a scale of 1 - 10 (relative for me, i.e. if I say im 7/10 in python but you think you are 3/10 in javascript or something, odds are you are still far better at js than I am at python), this is how good I think I am at some programming languages:
+
+1. Python - 7/10
+2. GDscript (basically python but ok) - 6/10
+3. C# - 4/10
+4. HTML - 3/10
+5. C - 2.5/10
+6. JS - 2/10 (tied with CSS & Lua)
+6. CSS - 2/10 (tied with Lua and JS)
+6. Lua - 2/10 (tied with JS & CSS)
+7. C++ - 1.5/10
+8. Java - 1/10
+9. A lot of thing I haven't heard of - 0/10
