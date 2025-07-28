@@ -20,7 +20,7 @@
 
 ### Important info
 
-To any self proclaimed "Coding Crackheads" or "Namespace Nerds" or "Github Geeks", just know that as of writing this, I have used markdown files for less than an hour, know some basic syntax, and learnt it just to write this goofy little sh#thole of a readme file.
+To any self proclaimed "Coding Crackheads" or "Namespace Nerds" or "Github Geeks", just know that as of writing this, I've known how to use markdown files for less than an hour now, know some basic syntax, and learnt it just to write this goofy little sh#thole of a readme file.
 
 
 ## Who tf is this Jessy KDM guy?
