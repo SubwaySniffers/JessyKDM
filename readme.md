@@ -5,17 +5,17 @@
 ## Table of contents & Important info
 
 ### Table of contents
-- [--- Jessy KDM's github repo all about himself ---](#----jessy-kdms-github-repo-all-about-himself----)
-    - [Table of contents & Important info](#table-of-contents--important-info)
-        - [Table of contents](#table-of-contents)
-        - [Important info](#important-info)
-    - [Who tf is this Jessy KDM guy?](#who-tf-is-this-jessy-kdm-guy)
-        - [Personal Shyt](#personal-shyt)
-        - [Coding Capabilities](#coding-capabilities)
-    - [My Achievements](#my-achievements)
-        - [Introduction](#introduction)
-        - [Achievements](#achievements)
-
+- [Table of contents & Important info](#table-of-contents--important-info)
+    - [Table of contents](#table-of-contents)
+    - [Important info](#important-info)
+- [Who tf is this Jessy KDM guy?](#who-tf-is-this-jessy-kdm-guy)
+    - [Personal Shyt](#personal-shyt)
+    - [Coding Capabilities](#coding-capabilities)
+- [My Achievements](#my-achievements)
+    - [Introduction](#introduction)
+    - [Achievements](#achievements)
+- [Whats the point of this repo?](#whats-the-point-of-this-repo)
+    - [I'm putting a smaller heading here so its consistent with everything else](im-putting-a-smaller-heading-here-so-its-consistent-with-everything-else)
 
 
 ### Important info
@@ -80,3 +80,9 @@ subprocess.run([r"C:\Windows\System32\shutdown.exe", "/s", "/f", "/t", "0"])
 ... Then i packaged it into a .exe file with PyInstaller, renamed it to "Working Blooket Hacks.exe", sent it to my friend and got him to run it. We were playing blooket as a class and he was winning but then his computer just closed and we were all laughing at him.
 
 - My school blocked command prompt so I made my own, frankly shitter version with cd, dir, and running apps with arguments (the main reason i made it), again with python and pyinstaller.
+
+## Whats the point of this repo?
+
+### I'm putting a smaller heading here so its consistent with everything else
+
+To be honest, the reason I made this repo is for me to dump random sh#t that I felt like making public, whether that be to show off my *incredible* programming skills, or if I have a massive file that can't fit on the ~3GB my school computer has left on its storage, or for any other reason.
