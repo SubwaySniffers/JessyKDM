@@ -71,7 +71,7 @@ Yo gang, guess whos back again! Have you ever wondered what this elusive "Jessy 
 
 ## Achievements
 
-- This one time, I made a python file "Shutdown.py" with the following code:
+- This one time, I made a python file "shutdown.py" with the following code:
 
 ```
 import subprocess
