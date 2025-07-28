@@ -5,12 +5,13 @@
 ## Table of contents & Important info
 
 ### Table of contents
-- [Table of contents & Important info](#table-of-contents--important-info)
-  - [Table of contents](#table-of-contents)
-  - [Important info](#important-info)
-- [Who tf is this Jessy KDM guy?](#who-tf-is-this-jessy-kdm-guy)
-   - [Personal Shyt](#personal-shyt)
-   - [Coding Capabilities](#coding-capabilities)
+- [--- Jessy KDM's github repo all about himself ---](#----jessy-kdms-github-repo-all-about-himself----)
+  - [Table of contents & Important info](#table-of-contents--important-info)
+    - [Table of contents](#table-of-contents)
+    - [Important info](#important-info)
+  - [Who tf is this Jessy KDM guy?](#who-tf-is-this-jessy-kdm-guy)
+     - [Personal Shyt](#personal-shyt)
+     - [Coding Capabilities](#coding-capabilities)
 
 
 
