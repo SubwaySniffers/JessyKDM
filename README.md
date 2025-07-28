@@ -2,8 +2,8 @@
 ---
 
 ## Table of contents
-- [hi gng](##higng)
-- [Who am I](#WhotfisthisJessyKDMguy)
+- [hi gng](##hi-gng)
+- [Who am I](##Who-tf-is-this-Jessy-KDM-guy)
 
 
 j
