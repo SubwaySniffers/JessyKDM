@@ -38,7 +38,7 @@ My friends and family say I'm quite smart, but I don't like calling myself too g
 
 #### Coding capabilities
 
-I'd say I'm quite mediocre at coding, even though it is my passion and a web developer is my dream job. On a scale of 1 - 10 (relative for me, i.e. if I say im 7/10 in python but you think you are 3/10 in javascript or something, odds are you are still far better at js than I am at python), this is how good I think I am at some programming languages.
+I'd say I'm quite mediocre at coding, even though it is my passion and a web developer is my dream job. On a scale of 1 - 10 (relative for me, i.e. if I say im 7/10 in python but you think you are 3/10 in javascript or something, odds are you are still far better at js than I am at python), this is how good I think I am at some programming languages.<br>1. Python - 7/10<br>2. GDscript (basically python but ok) - 6/10<br>
 
 1. Python - 7/10
 2. GDscript (basically python but ok) - 6/10
