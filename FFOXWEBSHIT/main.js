@@ -1,3 +1,4 @@
+console.log('SUCK MY EURTY ASS ICK');
 const canvas = document.getElementById('display');
 canvas.width = canvas.offsetWidth;
 canvas.height = canvas.offsetHeight;
