@@ -76,7 +76,7 @@ framey.src = 'walk anim/sprite_3.png';
 let ccc = 0;
 
 let xPosition = 10;
-let yPosition = 564;
+let yPosition = canvas.height - 150;
 let xVelocity = 1;
 let yVelocity = 0;
 let onFloor = true;
