@@ -106,6 +106,7 @@ function changeFrame() {
 
 setInterval(changeFrame, 50);
 function draw() {
+    yPosition = canvas.height - 150;
     // Create image data for pixel manipulation
     const bandSize = 5; // Adjust for performance vs quality
     const dimCol = '#48557c';
