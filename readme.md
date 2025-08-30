@@ -54,13 +54,14 @@ I'd say I'm quite mediocre at coding, even though it is my passion and a web dev
 
 1. Python - 7/10
 2. GDscript (basically python but ok) - 6/10
-3. C# - 4/10
-4. HTML - 3/10
-5. C - 2.5/10
-6. JS & CSS & Lua - 2/10 **(tie)**
-7. C++ - 1.5/10
-8. Java - 1/10
-9. A lot of thing I haven't heard of - tiny_number/10 where `tiny_number = (0.1 + 0.2) - 0.3`
+3. JS - (5/10)
+4. C# - 4/10
+5. HTML - 3/10
+6. C - 2.5/10
+7. CSS & Lua - 2/10 **(tie)**
+8. C++ - 1.5/10
+9. Java - 1/10
+10. A lot of thing I haven't heard of - tiny_number/10 where `tiny_number = (0.1 + 0.2) - 0.3`
 
 ## My Achievements
 
