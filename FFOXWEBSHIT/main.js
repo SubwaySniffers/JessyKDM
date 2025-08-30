@@ -76,7 +76,7 @@ framey.src = 'walk anim/sprite_3.png';
 let ccc = 0;
 
 let xPosition = 10;
-let yPosition = canvas.height - 120;
+let yPosition = canvas.height - 150;
 let xVelocity = 1;
 let yVelocity = 0;
 let onFloor = true;
@@ -165,7 +165,7 @@ window.addEventListener('mousedown', function(event) {
     if (event.button === 0) {
         mouseX = event.x;
         mouseY = event.y;
-        if (xPosition <= mouseX <= xPosition + 100 && yPosition <= mouseY <= yPosition + 130) {
+        if (xPosition <= mouseX <= xPosition + 100 && yPosition <= mouseY <= yPosition + 150) {
             xVelocity *= -1;
             
         }
