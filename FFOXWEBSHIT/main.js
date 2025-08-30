@@ -165,7 +165,7 @@ window.addEventListener('mousedown', function(event) {
     if (event.button === 0) {
         mouseX = event.x;
         mouseY = event.y;
-        if (xPosition <= mouseX <= xPosition + 100 && yPosition <= mouseY <= yPosition + 150) {
+        if (xPosition <= mouseX <= xPosition + 100 && yPosition <= mouseY <= yPosition + 130) {
             xVelocity *= -1;
             
         }
