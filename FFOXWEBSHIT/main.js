@@ -266,7 +266,7 @@ function draw() {
 // Search functionality
 searchText.addEventListener("keydown", (event) => {
     if (event.key === 'Enter') {
-        window.location.href = 'https://www.google.com/search?q=' + encodeURIComponent(searchText.value);
+        window.location.href = 'https://www.google.com/search?q=' + encodeURIComponent(searchText.value) + '&hl=en';
     }
 });
 
