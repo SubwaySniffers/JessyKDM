@@ -31,7 +31,7 @@ canvas {
     pointer-events: none; /* Optional: allows clicking through to canvas */
 }
 #searchInput {
-    background-color: #656d85;
+    background-color: #5d6070;
     width: 400px;
     height: 40px;
     pointer-events: all;
